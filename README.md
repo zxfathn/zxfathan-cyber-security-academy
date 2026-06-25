@@ -70,11 +70,7 @@ ZXFathan CyberSec Academy is proudly developed and maintained by **AnubisXploite
 | Information | Details                                                                        |
 | ----------- | ------------------------------------------------------------------------------ |
 | Team Name   | AnubisXploiter                                                                 |
-| Founder     | Fathan Fatahillah                                                              |
-| Developer   | zxfathnDev                                                                     |
-| Instagram   | https://www.instagram.com/zxfathnn_/                                           |
-| Discord     | zxfathann                                                                      |
-| Archive     | https://zone-xsec.com/archive/attacker/.%252FFathann%2BIs%2BNoobs%2B%2521%2521 |
+| Archive     |https://zone-xsec.com/archive/team/Anubis+Xploiter                              |
 
 ---
 
@@ -255,14 +251,6 @@ Users can unlock achievements such as:
 
 ---
 
-# 📸 Application Preview
-
-<p align="center">
-<img src="https://zxfathn.github.io/zko.png" width="800">
-</p>
-
----
-
 # ❤️ Support
 
 If you like this project:
@@ -295,7 +283,7 @@ https://www.instagram.com/zxfathnn_/
 
 ### Discord
 
-zxfathann
+https://discord.com/users/757956115052101663
 
 ### GitHub
 
