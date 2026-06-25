@@ -17,10 +17,6 @@
 <img src="https://zxfathn.github.io/zxfathan-tumbnail.png" width="85%">
 </p>
 
-<p align="center">
-<img src="https://zxfathn.github.io/IMG-20250622-WA0208.jpg" width="120">
-</p>
-
 <h1 align="center">🛡️ ZxFathan CyberSec Academy 🛡️</h1>
 
 <p align="center">
@@ -64,7 +60,7 @@ The goal of this project is to bridge the gap between theoretical learning and p
 # 🏴 About Team
 
 <p align="center">
-<img src="https://zxfathn.github.io/IMG-20250622-WA0208.jpg" width="350">
+<img src="https://zxfathn.github.io/IMG-20250622-WA0208.jpg" width="120">
 </p>
 
 ZXFathan CyberSec Academy is proudly developed and maintained by **AnubisXploiter Team**, an independent cybersecurity learning community focused on ethical hacking, penetration testing, cyber awareness, and security research.
