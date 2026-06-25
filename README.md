@@ -248,6 +248,37 @@ Users can unlock achievements such as:
 
 ---
 
+### Special Thanks To
+
+1. We cordially thank them, who helped us directly or indirectly, by means of sharing knowledge, ideas, suggestions, or by providing DIOS, payloads, queries and other necessary stuffs.<br><br>We are really grateful to them.
+
+2. We used these in Web Tools:
+* https://hashes.com/en/decrypt/hash (Hash Decrypter)<br>
+* https://pentest-tools.com/website-vulnerability-scanning/sql-injection-scanner-online (SQLi Scanner)<br>
+* https://www.yougetsignal.com/tools/web-sites-on-web-server (Reverse IP)<br>
+* https://hackertarget.com/find-dns-host-records (Sub-Domain Checker)
+
+3. We took help of the following websites for programming related perposes:
+* MY DOSEN SEPTA <br>
+* https://www.google.com<br>
+* https://www.youtube.com<br>
+* https://developer.android.com<br>
+* https://www.stackoverflow.com<br>
+* https://github.com
+
+<b>NOTE:</b> DH HackBar is not an modified application. It's development was started as a fully blank project by the developers of <b>Team Darknet Haxor</b>. During the development period, we tried to follow Anon HackBar's design, as users are already familiar and will be much comfortable with it.
+<br>
+<br>
+
+### Also Thanks To
+
+We are really thankful to all the members of AnubisXploiter group. Their love and support have always inspired us to do great things. Thanks again, dear brothers!
+<br>
+<br>
+
+
+---
+
 # ❤️ Support
 
 If you like this project:
