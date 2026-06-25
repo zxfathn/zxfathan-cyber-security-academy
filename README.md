@@ -26,7 +26,7 @@ Learn Cyber Security Through Gamification
 <p align="center">
 <a href="https://www.instagram.com/zxfathnn_/">Instagram</a> •
 <a href="https://github.com/zxfathn">GitHub</a> •
-<a href="https://zone-xsec.com/archive/attacker/.%252FFathann%2BIs%2BNoobs%2B%2521%2521">Zone-Sec Archive</a>
+<a href="https://zone-xsec.com/archive/attacker/.%252FFathann%2BIs%2BNoobs%2B%2521%2521">Zone-Sec Archive</a> •
 <a href="https://discord.com/users/757956115052101663">Discord</a>
 </p>
 
