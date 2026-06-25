@@ -2,7 +2,7 @@
 <img src="https://zxfathn.github.io/zxfathan-tumbnail.png" width="100%">
 </p>
 
-<h1 align="center">🛡️ ZXFathan Academy</h1>
+<h1 align="center">🛡️ ZxFathan CyberSec Academy 🛡️</h1>
 
 <p align="center">
 Cyber Security Learning Platform Based On Gamification
@@ -79,7 +79,7 @@ Instagram : https://www.instagram.com/zxfathnn_/
 
 Discord : zxfathann
 
-Website : https://zone-xsec.com
+Miror : https://zone-xsec.com
 
 ---
 
@@ -87,4 +87,4 @@ Website : https://zone-xsec.com
 
 This project is intended for educational purposes and cybersecurity learning.
 
-Copyright © 2026 ZXFathan Academy.
+Copyright © 2026 ZxFathan CyberSec Academy.
