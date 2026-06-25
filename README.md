@@ -27,10 +27,7 @@ Learn Cyber Security Through Gamification
 <a href="https://www.instagram.com/zxfathnn_/">Instagram</a> •
 <a href="https://github.com/zxfathn">GitHub</a> •
 <a href="https://zone-xsec.com/archive/attacker/.%252FFathann%2BIs%2BNoobs%2B%2521%2521">Zone-Sec Archive</a>
-</p>
-
-<p align="center">
-Discord : <b>zxfathann</b>
+<a href="https://discord.com/users/757956115052101663">Discord</a>
 </p>
 
 ---
@@ -281,10 +278,6 @@ If you like this project:
 
 https://www.instagram.com/zxfathnn_/
 
-### Discord
-
-https://discord.com/users/757956115052101663
-
 ### GitHub
 
 https://github.com/zxfathn
@@ -292,6 +285,7 @@ https://github.com/zxfathn
 ### Archive
 
 https://zone-xsec.com/archive/attacker/.%252FFathann%2BIs%2BNoobs%2B%2521%2521
+https://defacer.id/archive/notifier=.%252FFathann%2520Is%2520Noobs%2520%2521%2521/page=1
 
 ---
 
