@@ -3,8 +3,8 @@
   <img src="https://img.shields.io/badge/Platform-Android-success?style=flat-square">
   <img src="https://img.shields.io/badge/Built%20With-Android%20Studio-green?style=flat-square">
   <img src="https://img.shields.io/github/stars/zxfathn/zxfathan-cyber-security-academy?style=flat-square">
-  <img src="https://img.shields.io/github/issues/darknethaxor/DH-HackBar?color=red&style=flat-square">
-  <img src="https://img.shields.io/github/forks/darknethaxor/DH-HackBar?color=teal&style=flat-square">
+  <img src="https://img.shields.io/github/issues/zxfathn/zxfathan-cyber-security-academy?color=red&style=flat-square">
+  <img src="https://img.shields.io/github/forks/zxfathn/zxfathan-cyber-security-academy?color=teal&style=flat-square">
 </p>
 
 <p align="center">
