@@ -1,15 +1,17 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/version-1.0-blue?style=flat-square">
-  <img src="https://img.shields.io/github/stars/zxfathn/ZXFathan-Academy?style=flat-square">
-  <img src="https://img.shields.io/github/issues/zxfathn/ZXFathan-Academy?color=red&style=flat-square">
-  <img src="https://img.shields.io/github/forks/zxfathn/ZXFathan-Academy?color=teal&style=flat-square">
+  <img src="https://img.shields.io/badge/version-1.1-green?style=flat-square">
+  <img src="https://img.shields.io/github/stars/darknethaxor/DH-HackBar?style=flat-square">
+  <img src="https://img.shields.io/github/issues/darknethaxor/DH-HackBar?color=red&style=flat-square">
+  <img src="https://img.shields.io/github/forks/darknethaxor/DH-HackBar?color=teal&style=flat-square">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20Source-Yes-darkgreen?style=flat-square">
-  <img src="https://img.shields.io/badge/Maintained-Yes-lightblue?style=flat-square">
-  <img src="https://img.shields.io/badge/Written%20In-PHP%20%7C%20JavaScript%20%7C%20MySQL-darkcyan?style=flat-square">
+  <img src="https://img.shields.io/badge/Open%20Source-No-darkgreen?style=flat-square">
+  <img src="https://img.shields.io/badge/Maintained%20-No-lightblue?style=flat-square">
+  <img src="https://img.shields.io/badge/Written%20In-Java%20|%20JavaScript-darkcyan?style=flat-square">
+
 </p>
+
 
 <p align="center">
 <a href="https://github.com/zxfathn">
