@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20Source-No-darkgreen?style=flat-square">
+  <img src="https://img.shields.io/badge/Open%20Source-No-red?style=flat-square">
   <img src="https://img.shields.io/badge/Maintained%20-No-lightblue?style=flat-square">
   <img src="https://img.shields.io/badge/Written%20In-Java%20|%20PHP%20|%20MySQL-darkcyan?style=flat-square">
 </p>
